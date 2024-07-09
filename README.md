@@ -1,2 +1,2 @@
-# sistema-bacario-java
+# sistema-bancario-java
 Sistema Bancário desenvolvido em Java, para desafios de projetos do curso Java Developer, na DIO.
